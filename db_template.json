@@ -1,0 +1,11 @@
+{
+  "sanctioned" : ["userID"],
+  "servers" : {
+    "id" : {
+      "channel" : "ChannelID",
+      "queue" : [
+        ["userID", "seconds", "item"]
+      ]
+    }
+  }
+}
